@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Moazam Ali, a **Frontend Engineer** based in Pakistan working at [OLEY](https://oley.io). Having around 2+ years of experience in wordpress website development, but since 2021, I'm professionally working as a Frontend Engineer. To see my profile in detail, I recommend to look at my LinkedIn profile.
+I am Moazam Ali, a **Frontend Engineer** based in Pakistan. Having around 2+ years of experience in wordpress website development, but since 2021, I'm professionally working as a Frontend Engineer. To see my profile in detail, I recommend to look at my LinkedIn profile.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moazamdev/)
 [![Dev](https://img.shields.io/badge/DEV-12100E?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/moazamdev)
