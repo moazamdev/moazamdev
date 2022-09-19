@@ -1,34 +1,34 @@
 <img src="./Images/Github Readme Banner.png" alt="Hi there, I'm Moazam Ali" />
 
-## Hey! Nice to see you.
+## <img src="./Images/hey.gif"/> Hey! Nice to see you.
 
 I am Moazam Ali, a **Frontend Developer** based in Pakistan. Having around 2+ years of experience in wordpress website development, but since 2021, I'm professionally working as a Frontend Developer. To see my profile in detail, I recommend to look at my LinkedIn profile.
 
 ## Where to find me
 
 <a href="https://www.linkedin.com/in/moazamdev/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"  />
+    <img src="https://img.shields.io/badge/-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"  />
 </a>
-<a href="https://www.linkedin.com/in/moazamdev/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"  />
+<a href="https://dev.to/moazamdev">
+    <img src="https://img.shields.io/badge/-12100E?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev"  />
 </a>
-<a href="https://www.linkedin.com/in/moazamdev/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"  />
+<a href="https://stackoverflow.com/users/17986261/moazamdev">
+    <img src="(https://img.shields.io/badge/-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow"  />
 </a>
-<a href="https://www.linkedin.com/in/moazamdev/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"  />
+<a href="https://www.instagram.com/moazam.dev/">
+    <img src="https://img.shields.io/badge/-Instagram-FE7A16?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"  />
 </a>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moazamdev/)
+<!-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moazamdev/)
 [![Dev](https://img.shields.io/badge/DEV-12100E?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/moazamdev)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17986261/moazamdev)
-[![Instagram](https://img.shields.io/badge/-Instagram-FE7A16?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moazam.dev/)
+[![Instagram](https://img.shields.io/badge/-Instagram-FE7A16?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moazam.dev/) -->
 
 ## Tools I worked with
 
 [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,bootstrap,c,cs,cpp,figma,git,github,ai,jquery,nodejs,sass,visualstudio,vscode,webpack,wordpress,xd)](https://skillicons.dev)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -46,9 +46,36 @@ I am Moazam Ali, a **Frontend Developer** based in Pakistan. Having around 2+ ye
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) -->
 
-## Stats
+## Github Stats 📊
+
+<details> 
+  <summary>GitHub Profile Stats 💻</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="moazamdev's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=moazamdev&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=#ffffff00&title_color=00E676&icon_color=00E676" height="192px"/>
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="rzashakeri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzashakeri&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/>
+    </a>
+  <br/>
+</details>
+
+<details>
+  <summary>Activity Graph 📈</summary>
+  <br/>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img alt="rzashakeri's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=rzashakeri&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" />
+    </a>
+</details>
+
+<details>
+  <summary>Profile Views 👁️</summary>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=rzashakerie&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+
+</details>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=moazamdev&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moazamdev&hide=TeX&layout=compact&theme=prussian)
