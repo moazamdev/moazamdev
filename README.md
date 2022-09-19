@@ -1,12 +1,11 @@
 <img src="./Images/Github Readme Banner.png" alt="Hi there, I'm Moazam Ali" />
 
-## <img src="./Images/hey.gif" width="30" align="middle"/> Hey! Nice to see you.
+## <img src="./Images/hey.gif" width="25" align="middle"/> Hey! Nice to see you.
 
 I am Moazam Ali, a **Frontend Developer** based in Pakistan. Having around 2+ years of experience in wordpress website development, but since 2021, I'm professionally working as a Frontend Developer. To see my profile in detail, I recommend to look at my LinkedIn profile.
 
-<br/>
 
-## Where to find me
+## 🔗 Where to find me
 <!-- 
 <a href="https://dev.to/moazamdev"><img src="./Images/dev.png" alt="LinkedIn" /></a>
 
@@ -29,16 +28,23 @@ I am Moazam Ali, a **Frontend Developer** based in Pakistan. Having around 2+ ye
 
 <br/>
 
-## Tools I work with
+## 🛠️ Tools I work with
 
 [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,bootstrap,c,cs,cpp,figma,git,github,ai,jquery,nodejs,sass,visualstudio,vscode,webpack,wordpress,xd)](https://skillicons.dev)
 
 <br/>
 
-## Github Stats 📊
+## 📕 Latest Blog Posts 
+
+<!-- blog-post-list:start -->
+<!-- blog-post-list:end -->
+
+<br/>
+
+## 📊 Github Stats 
 
 <details> 
-  <summary>GitHub Profile Stats 💻</summary>
+  <summary>💻 GitHub Profile Stats </summary>
   <br/>
   <div style="display:flex;flex-direction:row;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -52,7 +58,7 @@ I am Moazam Ali, a **Frontend Developer** based in Pakistan. Having around 2+ ye
 </details>
 
 <details>
-  <summary>Activity Graph 📈</summary>
+  <summary>📈 Activity Graph </summary>
   <br/>
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
         <img alt="moazamdev's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=moazamdev&theme=react-dark&bg_color=0D1117&color=fff&line=FFB800&point=fff&hide_border=true" />
@@ -60,7 +66,7 @@ I am Moazam Ali, a **Frontend Developer** based in Pakistan. Having around 2+ ye
 </details>
 
 <details>
-  <summary>Streak Stats 🔥</summary>
+  <summary>🔥 Streak Stats </summary>
   <br/>
     <a href="https://git.io/streak-stats">
       <img alt="moazamdev's Streak Stats" src="https://streak-stats.demolab.com?user=moazamdev&theme=dark&background=0D1117&border=30363D" />
@@ -68,7 +74,7 @@ I am Moazam Ali, a **Frontend Developer** based in Pakistan. Having around 2+ ye
 </details>
 
 <details>
-  <summary>Github Profile Trophy 🏆</summary>
+  <summary>🏆 Github Profile Trophy </summary>
   <br/>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img alt="moazamdev's Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=moazamdev&theme=juicyfresh&no-bg=true&no-frame=false&border=30363D" />
@@ -77,14 +83,14 @@ I am Moazam Ali, a **Frontend Developer** based in Pakistan. Having around 2+ ye
 
 
 <details>
-  <summary>Isometric Commit Calendar 📅</summary>
+  <summary>📅 Isometric Commit Calendar </summary>
   <br/>
-    <img align="center" src="/github-metrics.svg" alt="Metrics" width="70%">
+    <img align="center" src="/github-metrics.svg" alt="Metrics" width="80%">
 </details>
 
 
 <details>
-  <summary>Profile Views 👁️</summary>
+  <summary>👁️ Profile Views </summary>
   <br/>
     <img src="https://komarev.com/ghpvc/?username=moazamdev&label=PROFILE+VIEWS&style=for-the-badge&color=d48e24">
 </details>
