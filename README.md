@@ -2,6 +2,8 @@
 
 ## <img src="./Images/hey.gif" width="25" align="middle"/>&nbsp; Hey! Nice to see you.
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&duration=3000&pause=300&color=FF6300&vCenter=true&width=435&lines=Front-end+Developer;UI+%26+UX+Designer;Wordpress+Developer)](https://git.io/typing-svg)
+
 <p align="justify">
 I am Moazam Ali, a **Frontend Developer** based in Pakistan. Having around 2+ years of experience in wordpress website development, but since 2021, I'm professionally working as a Frontend Developer. To see my profile in detail, I recommend to look at my LinkedIn profile.
 </p>
@@ -9,7 +11,7 @@ I am Moazam Ali, a **Frontend Developer** based in Pakistan. Having around 2+ ye
 &nbsp;
 &nbsp;
 
-## 🔗 Where to find me
+### 🔗 Where to find me
 
 <a href="https://www.linkedin.com/in/moazamdev/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"  />
@@ -28,13 +30,13 @@ I am Moazam Ali, a **Frontend Developer** based in Pakistan. Having around 2+ ye
 &nbsp;
 &nbsp;
 
-## 🛠️ Tools I work with
+### 🛠️ Tools I work with
 
 [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,bootstrap,c,cs,cpp,figma,git,github,ai,jquery,nodejs,sass,visualstudio,vscode,webpack,wordpress,xd)](https://skillicons.dev)
 
 <br/>
 
-## 📕 Latest Blog Posts 
+### 📕 Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
 - [Difference b/w SASS &amp; SCSS](https://dev.to/moazamdev/difference-bw-sass-scss-31jm)
@@ -46,7 +48,7 @@ I am Moazam Ali, a **Frontend Developer** based in Pakistan. Having around 2+ ye
 
 <br/>
 
-## 📊 Github Stats 
+### 📊 Github Stats 
 
 <details> 
   <summary>💻 GitHub Profile Stats </summary>
