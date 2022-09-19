@@ -13,7 +13,7 @@ I am Moazam Ali, a **Frontend Developer** based in Pakistan. Having around 2+ ye
     <img src="https://img.shields.io/badge/-12100E?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev"  />
 </a>
 <a href="https://stackoverflow.com/users/17986261/moazamdev">
-    <img src="(https://img.shields.io/badge/-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow"  />
+    <img src="(https://img.shields.io/badge/-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow"  />
 </a>
 <a href="https://www.instagram.com/moazam.dev/">
     <img src="https://img.shields.io/badge/-Instagram-FE7A16?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"  />
@@ -23,6 +23,7 @@ I am Moazam Ali, a **Frontend Developer** based in Pakistan. Having around 2+ ye
 [![Dev](https://img.shields.io/badge/DEV-12100E?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/moazamdev)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17986261/moazamdev)
 [![Instagram](https://img.shields.io/badge/-Instagram-FE7A16?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moazam.dev/) -->
+<br/>
 
 ## Tools I worked with
 
@@ -48,17 +49,21 @@ I am Moazam Ali, a **Frontend Developer** based in Pakistan. Having around 2+ ye
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) -->
 
+<br/>
+
 ## Github Stats 📊
 
 <details> 
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
+  <div style="display:flex;flex-direction:row;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img width="60%" align="left" alt="moazamdev's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=moazamdev&show_icons=true&count_private=true&theme=slateorange&hide_border=false&border_color=30363D&bg_color=0D1117&text_bold=false"/>
+        <img align="left" alt="moazamdev's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=moazamdev&show_icons=true&count_private=true&theme=slateorange&hide_border=false&border_color=30363D&bg_color=0D1117&text_bold=false"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img width="40%" align="right" alt="moazamdev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moazamdev&langs_count=8&layout=compact&theme=default&hide_border=false&border_color=30363D&bg_color=0D1117&text_bold=false&title_color=D48E24&icon_color=D48E24&hide=Jupyter%20Notebook"/>
+        <img align="right" alt="moazamdev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moazamdev&langs_count=8&layout=compact&theme=default&hide_border=false&border_color=30363D&bg_color=0D1117&text_bold=false&title_color=D48E24&icon_color=D48E24&hide=Jupyter%20Notebook"/>
     </a>
+  </div>
   <br/>
 </details>
 
@@ -66,7 +71,7 @@ I am Moazam Ali, a **Frontend Developer** based in Pakistan. Having around 2+ ye
   <summary>Activity Graph 📈</summary>
   <br/>
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img alt="moazamdev's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=moazamdev&bg_color=0D1117&color=fff&line=00E676&point=fff&hide_border=true" />
+        <img alt="moazamdev's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=moazamdev&theme=react-dark&bg_color=0D1117&color=fff&line=00E676&point=fff&hide_border=true" />
     </a>
 </details>
 
@@ -74,20 +79,12 @@ I am Moazam Ali, a **Frontend Developer** based in Pakistan. Having around 2+ ye
   <summary>Streak Stats 📈</summary>
   <br/>
     <a href="https://git.io/streak-stats">
-      <img alt="moazamdev's Streak Stats" src="https://streak-stats.demolab.com?user=moazamdev&theme=dark&background=0D1117&border=161B22" />
+      <img alt="moazamdev's Streak Stats" src="https://streak-stats.demolab.com?user=moazamdev&theme=dark&background=0D1117&border=30363D" />
     </a>
 </details>
-
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=moazamdev&theme=dark)](https://git.io/streak-stats) -->
 
 <details>
   <summary>Profile Views 👁️</summary>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=moazamdev&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
-
+    <img src="https://komarev.com/ghpvc/?username=moazamdev&label=PROFILE+VIEWS&style=for-the-badge&color=d48e24">
 </details>
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=moazamdev&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moazamdev&hide=TeX&layout=compact&theme=prussian)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Moazamdev.Moazamdev)
