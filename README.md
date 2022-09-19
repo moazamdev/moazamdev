@@ -79,7 +79,7 @@ I am Moazam Ali, a **Frontend Developer** based in Pakistan. Having around 2+ ye
 <details>
   <summary>Isometric Commit Calendar 📅</summary>
   <br/>
-    <img align="center" src="/github-metrics.svg" alt="Metrics">
+    <img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">
 </details>
 
 
