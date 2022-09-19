@@ -54,7 +54,7 @@ I am Moazam Ali, a **Frontend Developer** based in Pakistan. Having around 2+ ye
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="moazamdev's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=moazamdev&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=0D1117&title_color=00E676&icon_color=00E676" height="192px"/>
+        <img alt="moazamdev's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=moazamdev&show_icons=true&count_private=true&theme=slateorange&hide_border=false&border_color=161B22&bg_color=0D1117" height="192px"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img alt="moazamdev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moazamdev&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=0D1117&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/>
@@ -69,6 +69,14 @@ I am Moazam Ali, a **Frontend Developer** based in Pakistan. Having around 2+ ye
         <img alt="moazamdev's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=moazamdev&bg_color=0D1117&color=fff&line=00E676&point=fff&hide_border=true" />
     </a>
 </details>
+
+<details>
+  <summary>Activity Graph 📈</summary>
+  <br/>
+    [![GitHub Streak](https://streak-stats.demolab.com?user=moazamdev&theme=dark&background=0D1117&border=161B22)](https://git.io/streak-stats)
+</details>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=moazamdev&theme=dark)](https://git.io/streak-stats)
 
 <details>
   <summary>Profile Views 👁️</summary>
