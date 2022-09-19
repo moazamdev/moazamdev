@@ -4,11 +4,29 @@
 
 I am Moazam Ali, a **Frontend Developer** based in Pakistan. Having around 2+ years of experience in wordpress website development, but since 2021, I'm professionally working as a Frontend Developer. To see my profile in detail, I recommend to look at my LinkedIn profile.
 
+## Where to find me
+
+<a href="https://www.linkedin.com/in/moazamdev/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"  />
+</a>
+<a href="https://www.linkedin.com/in/moazamdev/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"  />
+</a>
+<a href="https://www.linkedin.com/in/moazamdev/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"  />
+</a>
+<a href="https://www.linkedin.com/in/moazamdev/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"  />
+</a>
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moazamdev/)
 [![Dev](https://img.shields.io/badge/DEV-12100E?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/moazamdev)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17986261/moazamdev)
+[![Instagram](https://img.shields.io/badge/-Instagram-FE7A16?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moazam.dev/)
 
-## Skills
+## Tools I worked with
+
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,bootstrap,c,cs,cpp,figma,git,github,ai,jquery,nodejs,sass,visualstudio,vscode,webpack,wordpress,xd)](https://skillicons.dev)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
