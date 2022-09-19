@@ -6,12 +6,6 @@ I am Moazam Ali, a **Frontend Developer** based in Pakistan. Having around 2+ ye
 
 
 ## 🔗 Where to find me
-<!-- 
-<a href="https://dev.to/moazamdev"><img src="./Images/dev.png" alt="LinkedIn" /></a>
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/moazamdev/)
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/moazam.dev/)
-[![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/17986261/moazamdev) -->
 
 <a href="https://www.linkedin.com/in/moazamdev/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"  />
@@ -35,9 +29,6 @@ I am Moazam Ali, a **Frontend Developer** based in Pakistan. Having around 2+ ye
 <br/>
 
 ## 📕 Latest Blog Posts 
-
-<!-- blog-post-list:start -->
-<!-- blog-post-list:end -->
 
 <br/>
 
