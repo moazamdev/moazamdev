@@ -18,7 +18,7 @@ I am Moazam Ali, a **Frontend Developer** based in Pakistan. Having around 2+ ye
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"  />
 </a>
 <a href="https://dev.to/moazamdev">
-    <img src="./Images/dev.png" alt="Dev" width="48px" style="border-radius:10px;" />
+    <img src="./Images/dev.png" alt="Dev" width="48px" borderRadius="10px"style="border-radius:10px !important;" />
 </a>
 <a href="https://www.instagram.com/moazam.dev/">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"  />
