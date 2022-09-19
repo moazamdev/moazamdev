@@ -1,6 +1,6 @@
 <img src="./Images/Github Readme Banner.png" alt="Hi there, I'm Moazam Ali" />
 
-## <img src="./Images/hey.gif"/> Hey! Nice to see you.
+## <img src="./Images/hey.gif" width="30"/> Hey! Nice to see you.
 
 I am Moazam Ali, a **Frontend Developer** based in Pakistan. Having around 2+ years of experience in wordpress website development, but since 2021, I'm professionally working as a Frontend Developer. To see my profile in detail, I recommend to look at my LinkedIn profile.
 
@@ -54,10 +54,10 @@ I am Moazam Ali, a **Frontend Developer** based in Pakistan. Having around 2+ ye
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="moazamdev's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=moazamdev&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=#ffffff00&title_color=00E676&icon_color=00E676" height="192px"/>
+        <img alt="moazamdev's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=moazamdev&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=0D1117&title_color=00E676&icon_color=00E676" height="192px"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="rzashakeri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzashakeri&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/>
+        <img alt="moazamdev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moazamdev&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=0D1117&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/>
     </a>
   <br/>
 </details>
@@ -66,14 +66,14 @@ I am Moazam Ali, a **Frontend Developer** based in Pakistan. Having around 2+ ye
   <summary>Activity Graph 📈</summary>
   <br/>
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img alt="rzashakeri's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=rzashakeri&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" />
+        <img alt="moazamdev's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=moazamdev&bg_color=0D1117&color=fff&line=00E676&point=fff&hide_border=true" />
     </a>
 </details>
 
 <details>
   <summary>Profile Views 👁️</summary>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=rzashakerie&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+  <img src="https://komarev.com/ghpvc/?username=moazamdev&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 
 </details>
 
