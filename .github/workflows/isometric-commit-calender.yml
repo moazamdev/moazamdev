@@ -27,7 +27,7 @@ jobs:
           # Options
           user: moazamdev
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: ""
           config_timezone: Asia/Karachi
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
