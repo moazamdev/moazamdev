@@ -54,10 +54,10 @@ I am Moazam Ali, a **Frontend Developer** based in Pakistan. Having around 2+ ye
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="moazamdev's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=moazamdev&show_icons=true&count_private=true&theme=slateorange&hide_border=false&border_color=161B22&bg_color=0D1117" height="192px"/>
+        <img align="center" alt="moazamdev's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=moazamdev&show_icons=true&count_private=true&theme=slateorange&hide_border=false&border_color=30363D&bg_color=0D1117&text_bold=false"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="moazamdev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moazamdev&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=0D1117&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/>
+        <img align="center" alt="moazamdev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moazamdev&langs_count=8&layout=compact&theme=default&hide_border=false&border_color=30363D&bg_color=0D1117&text_bold=false&title_color=D48E24&icon_color=D48E24&hide=Jupyter%20Notebook"/>
     </a>
   <br/>
 </details>
@@ -71,9 +71,11 @@ I am Moazam Ali, a **Frontend Developer** based in Pakistan. Having around 2+ ye
 </details>
 
 <details>
-  <summary>Activity Graph 📈</summary>
+  <summary>Streak Stats 📈</summary>
   <br/>
-    [![GitHub Streak](https://streak-stats.demolab.com?user=moazamdev&theme=dark&background=0D1117&border=161B22)](https://git.io/streak-stats)
+    <a href="https://git.io/streak-stats">
+        [![GitHub Streak](https://streak-stats.demolab.com?user=moazamdev&theme=dark&background=0D1117&border=161B22)](https://git.io/streak-stats)
+    </a>
 </details>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=moazamdev&theme=dark)](https://git.io/streak-stats)
