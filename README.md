@@ -71,9 +71,18 @@ I am Moazam Ali, a **Frontend Developer** based in Pakistan. Having around 2+ ye
   <summary>Github Profile Trophy 🏆</summary>
   <br/>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img alt="moazamdev's Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=moazamdev&theme=juicyfresh&no-bg=true&no-frame=true&border=30363D" />
+      <img alt="moazamdev's Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=moazamdev&theme=juicyfresh&no-bg=true&no-frame=false&border=30363D" />
     </a>
 </details>
+
+
+<details>
+  <summary>Isometric Commit Calendar 📅</summary>
+  <br/>
+    <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+</details>
+
+
 
 <details>
   <summary>Profile Views 👁️</summary>
