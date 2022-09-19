@@ -7,25 +7,25 @@ I am Moazam Ali, a **Frontend Developer** based in Pakistan. Having around 2+ ye
 <br/>
 
 ## Where to find me
-
-<a href="https://dev.to/moazamdev"><img src="./Images/dev.webp" alt="LinkedIn" style="background-color:#242938;width:30px;"/></a>
+<!-- 
+<a href="https://dev.to/moazamdev"><img src="./Images/dev.png" alt="LinkedIn" /></a>
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/moazamdev/)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/moazam.dev/)
-[![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/17986261/moazamdev)
+[![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/17986261/moazamdev) -->
 
-<!-- <a href="https://www.linkedin.com/in/moazamdev/">
-    <img src="https://img.shields.io/badge/-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"  />
+<a href="https://www.linkedin.com/in/moazamdev/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"  />
 </a>
 <a href="https://dev.to/moazamdev">
-    <img src="https://img.shields.io/badge/-12100E?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev"  />
+    <img src="./Images/dev.png" alt="Dev"  />
 </a>
 <a href="https://www.instagram.com/moazam.dev/">
-    <img src="https://img.shields.io/badge/-Instagram-FE7A16?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"  />
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"  />
 </a>
 <a href="https://stackoverflow.com/users/17986261/moazamdev">
-    <img src="(https://img.shields.io/badge/-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow"  />
-</a> -->
+    <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow"  />
+</a>
 
 <br/>
 
@@ -42,10 +42,10 @@ I am Moazam Ali, a **Frontend Developer** based in Pakistan. Having around 2+ ye
   <br/>
   <div style="display:flex;flex-direction:row;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="left" alt="moazamdev's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=moazamdev&show_icons=true&count_private=true&theme=slateorange&hide_border=false&border_color=30363D&bg_color=0D1117&text_bold=false"/>
+        <img align="center" alt="moazamdev's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=moazamdev&show_icons=true&count_private=true&theme=slateorange&hide_border=false&border_color=30363D&bg_color=0D1117&text_bold=false"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="right" alt="moazamdev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moazamdev&langs_count=8&layout=compact&theme=default&hide_border=false&border_color=30363D&bg_color=0D1117&text_bold=false&title_color=D48E24&icon_color=D48E24&hide=Jupyter%20Notebook"/>
+        <img align="center" alt="moazamdev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moazamdev&langs_count=8&layout=compact&theme=default&hide_border=false&border_color=30363D&bg_color=0D1117&text_bold=false&title_color=D48E24&icon_color=D48E24&hide=Jupyter%20Notebook"/>
     </a>
   </div>
   <br/>
@@ -55,7 +55,7 @@ I am Moazam Ali, a **Frontend Developer** based in Pakistan. Having around 2+ ye
   <summary>Activity Graph 📈</summary>
   <br/>
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img alt="moazamdev's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=moazamdev&theme=react-dark&bg_color=0D1117&color=fff&line=00E676&point=fff&hide_border=true" />
+        <img alt="moazamdev's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=moazamdev&theme=react-dark&bg_color=0D1117&color=fff&line=FFB800&point=fff&hide_border=true" />
     </a>
 </details>
 
