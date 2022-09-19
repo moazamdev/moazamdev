@@ -36,8 +36,8 @@ I am Moazam Ali, a **Frontend Developer** based in Pakistan. Having around 2+ ye
 
 ## 📕 Latest Blog Posts 
 
-<!-- blog-post-list:start -->
-<!-- blog-post-list:end -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <br/>
 
