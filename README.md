@@ -42,10 +42,10 @@ I am Moazam Ali, a **Frontend Developer** based in Pakistan. Having around 2+ ye
   <br/>
   <div style="display:flex;flex-direction:row;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" alt="moazamdev's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=moazamdev&show_icons=true&count_private=true&theme=slateorange&hide_border=false&border_color=30363D&bg_color=0D1117&text_bold=false"/>
+        <img height="180px" align="center" alt="moazamdev's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=moazamdev&show_icons=true&count_private=true&theme=slateorange&hide_border=false&border_color=30363D&bg_color=0D1117&text_bold=false"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" alt="moazamdev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moazamdev&langs_count=8&layout=compact&theme=default&hide_border=false&border_color=30363D&bg_color=0D1117&text_bold=false&title_color=D48E24&icon_color=D48E24&hide=Jupyter%20Notebook"/>
+        <img height="180px" align="center" alt="moazamdev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moazamdev&langs_count=8&layout=compact&theme=default&hide_border=false&border_color=30363D&bg_color=0D1117&text_bold=false&title_color=D48E24&icon_color=D48E24&hide=Jupyter%20Notebook"/>
     </a>
   </div>
   <br/>
@@ -60,10 +60,18 @@ I am Moazam Ali, a **Frontend Developer** based in Pakistan. Having around 2+ ye
 </details>
 
 <details>
-  <summary>Streak Stats 📈</summary>
+  <summary>Streak Stats 🔥</summary>
   <br/>
     <a href="https://git.io/streak-stats">
       <img alt="moazamdev's Streak Stats" src="https://streak-stats.demolab.com?user=moazamdev&theme=dark&background=0D1117&border=30363D" />
+    </a>
+</details>
+
+<details>
+  <summary>Github Profile Trophy 🏆</summary>
+  <br/>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img alt="moazamdev's Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=moazamdev&theme=juicyfresh&no-bg=true&no-frame=true" />
     </a>
 </details>
 
