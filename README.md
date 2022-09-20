@@ -39,11 +39,11 @@ I am Moazam Ali, a **Frontend Developer** based in Pakistan. Having around 2+ ye
 ### 📕 Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [The const keyword](https://dev.to/moazamdev/the-const-keyword-lj5)
 - [Difference b/w SASS &amp; SCSS](https://dev.to/moazamdev/difference-bw-sass-scss-31jm)
 - [What is React JS](https://dev.to/moazamdev/what-is-react-js-f1l)
 - [The Let Keyword](https://dev.to/moazamdev/the-let-keyword-3m20)
 - [Arrays | Beginner | Mysterious Topics of Js | #2](https://dev.to/moazamdev/arrays-beginner-mysterious-topics-of-js-2-5ckc)
-- [Variables, Operators, Conditions | Beginner | Mysterious Topics of Js | #1](https://dev.to/moazamdev/variables-operators-conditions-beginner-mysterious-topics-of-js-1-4hm7)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
