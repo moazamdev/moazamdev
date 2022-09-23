@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&duration=3000&pause=300&color=FF6300&vCenter=true&width=435&lines=Front-end+Developer;UI+%26+UX+Designer;Wordpress+Developer)](https://git.io/typing-svg)
 
 <p align="justify">
-I am Moazam Ali, a **Frontend Developer** based in Pakistan. Having around 2+ years of experience in wordpress website development, but since 2021, I'm professionally working as a Frontend Developer. To see my profile in detail, I recommend to look at my LinkedIn profile.
+I am Moazam Ali, a <b>Frontend Developer</b> based in Pakistan. Having around 2+ years of experience in wordpress website development, but since 2021, I'm professionally working as a Frontend Developer. To see my profile in detail, I recommend to look at my LinkedIn profile.
 </p>
 
 &nbsp;
