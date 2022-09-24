@@ -39,11 +39,11 @@ I am Moazam Ali, a <b>Frontend Developer</b> based in Pakistan. Having around 2+
 ### 📕 Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [Use of super&lpar;&rpar; in React](https://dev.to/moazamdev/use-of-super-in-react-3a8g)
 - [React Hooks vs Class Components](https://dev.to/moazamdev/react-hooks-vs-class-components-3j6e)
 - [The const keyword](https://dev.to/moazamdev/the-const-keyword-lj5)
 - [Difference b/w SASS &amp; SCSS](https://dev.to/moazamdev/difference-bw-sass-scss-31jm)
 - [What is React JS](https://dev.to/moazamdev/what-is-react-js-f1l)
-- [The Let Keyword](https://dev.to/moazamdev/the-let-keyword-3m20)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
