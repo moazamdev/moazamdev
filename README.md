@@ -50,7 +50,7 @@ I am Moazam Ali, a <b>Frontend Developer</b> based in Pakistan. Having around 2+
 
 ### 🃏 Dev Cards 
 
-<a href="https://app.daily.dev/moazamdev"><img src="https://github.com/moazamdev/moazamdev/blob/master/devcard.svg" width="200" alt="Moazam Ali's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/moazamdev/moazamdev/blob/main/devcard.svg" width="300" alt="Moazam Ali's Dev Card"/></a>
 
 <br/>
 
