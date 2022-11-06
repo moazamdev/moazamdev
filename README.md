@@ -39,11 +39,11 @@ I am Moazam Ali, a <b>Frontend Developer</b> based in Pakistan. Having around 2+
 ### 📕 Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Promises - Modern JS](https://dev.to/moazamdev/javascript-promises-modern-js-4lh4)
 - [JavaScript Classes - Modern JS](https://dev.to/moazamdev/javascript-classes-modern-js-1fe1)
 - [Difference between State &amp; Props](https://dev.to/moazamdev/difference-between-state-props-4p7d)
 - [Built-In Set Object](https://dev.to/moazamdev/built-in-set-object-4o2c)
 - [Built-in Map Object](https://dev.to/moazamdev/built-in-map-object-1ieb)
-- [React Lifecycle Methods](https://dev.to/moazamdev/react-lifecycle-methods-379j)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
