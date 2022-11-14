@@ -39,11 +39,11 @@ I am Moazam Ali, a <b>Frontend Developer</b> based in Pakistan. Having around 2+
 ### 📕 Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [Characteristics of User Experience &lpar;UX&rpar; Design](https://dev.to/moazamdev/characteristics-of-user-experience-ux-design-445e)
 - [Product Development Life Cycle](https://dev.to/moazamdev/product-development-life-cycle-3h3a)
 - [JavaScript Promises - Modern JS](https://dev.to/moazamdev/javascript-promises-modern-js-4lh4)
 - [JavaScript Classes - Modern JS](https://dev.to/moazamdev/javascript-classes-modern-js-1fe1)
 - [Difference between State &amp; Props](https://dev.to/moazamdev/difference-between-state-props-4p7d)
-- [Built-In Set Object](https://dev.to/moazamdev/built-in-set-object-4o2c)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
