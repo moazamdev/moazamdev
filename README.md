@@ -50,16 +50,20 @@ I am Moazam Ali, a <b>Frontend Developer</b> based in Pakistan. Having around 2+
 
 ### 🃏 Daily.dev Cards 
 
-<a style="margin-right:30px;" href="https://app.daily.dev/moazamdev">
-    <img src="https://user-images.githubusercontent.com/89134865/201539139-60d48498-29a0-46f6-8bd5-f71ce92655e8.png" width="250" alt="Moazam Ali's Dev Card"/>
+<a style="marginRight:30px;" href="https://app.daily.dev/moazamdev">
+    <img src="https://user-images.githubusercontent.com/89134865/201539139-60d48498-29a0-46f6-8bd5-f71ce92655e8.png" width="200" alt="Moazam Ali's Dev Card"/>
 </a>
 
 <a href="https://app.daily.dev/moazamdev">
-    <img src="https://user-images.githubusercontent.com/89134865/201539167-d6c33dc5-e223-410f-968b-998200d7538c.png" width="250" alt="Moazam Ali's Dev Card"/>
+    <img src="https://user-images.githubusercontent.com/89134865/201539167-d6c33dc5-e223-410f-968b-998200d7538c.png" width="200" alt="Moazam Ali's Dev Card"/>
 </a>
 
 <a href="https://app.daily.dev/moazamdev">
-    <img src="https://user-images.githubusercontent.com/89134865/201539168-aad44e1d-6144-4c0e-9139-b3c27fc4af06.png" width="250" alt="Moazam Ali's Dev Card"/>
+    <img src="https://user-images.githubusercontent.com/89134865/201539168-aad44e1d-6144-4c0e-9139-b3c27fc4af06.png" width="200" alt="Moazam Ali's Dev Card"/>
+</a>
+
+<a href="https://app.daily.dev/moazamdev">
+    <img src="https://user-images.githubusercontent.com/89134865/202871115-2eebb78b-c25d-4f8f-a273-b1d9e41d9dd4.png" width="200" alt="Moazam Ali's Dev Card"/>
 </a>
 
 <br/>
