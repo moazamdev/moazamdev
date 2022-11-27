@@ -39,11 +39,11 @@ I am Moazam Ali, a <b>Frontend Developer</b> based in Pakistan. Having around 2+
 ### 📕 Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [Quote by Dennis Ritchie](https://dev.to/moazamdev/quote-by-dennis-ritchie-2ejl)
 - [Responsibilities of an Entry-Level UX Designer](https://dev.to/moazamdev/responsibilities-of-an-entry-level-ux-designer-57fl)
 - [Characteristics of User Experience &lpar;UX&rpar; Design](https://dev.to/moazamdev/characteristics-of-user-experience-ux-design-445e)
 - [Product Development Life Cycle](https://dev.to/moazamdev/product-development-life-cycle-3h3a)
 - [JavaScript Promises - Modern JS](https://dev.to/moazamdev/javascript-promises-modern-js-4lh4)
-- [JavaScript Classes - Modern JS](https://dev.to/moazamdev/javascript-classes-modern-js-1fe1)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
