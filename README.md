@@ -43,11 +43,11 @@ Contributing to Opensource makes me happy that's why I write articles to educate
 ### 📕 Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [Function Rest Parameters in JavaScript](https://dev.to/moazamdev/function-rest-parameters-in-javascript-2f1)
 - [Default Parameters in JavaScript](https://dev.to/moazamdev/default-parameters-in-javascript-3f36)
 - [ES6 Symbol in JavaScript](https://dev.to/moazamdev/es6-symbol-in-javascript-1l12)
 - [UX Researcher Qualities](https://dev.to/moazamdev/ux-researcher-qualities-1c0f)
 - [Quote by Dennis Ritchie](https://dev.to/moazamdev/quote-by-dennis-ritchie-2ejl)
-- [Responsibilities of an Entry-Level UX Designer](https://dev.to/moazamdev/responsibilities-of-an-entry-level-ux-designer-57fl)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
