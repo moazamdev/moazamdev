@@ -43,11 +43,11 @@ Contributing to Opensource makes me happy that's why I write articles to educate
 ### 📕 Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [String.endsWith&lpar;&rpar; in JavaScript](https://dev.to/moazamdev/stringendswith-in-javascript-3kfd)
 - [String.startsWith&lpar;&rpar; in JavaScript](https://dev.to/moazamdev/stringstartswith-in-javascript-3bbf)
 - [String.includes&lpar;&rpar; in JavaScript](https://dev.to/moazamdev/stringprototypeincludes-in-javascript-52ea)
 - [Function Rest Parameters in JavaScript](https://dev.to/moazamdev/function-rest-parameters-in-javascript-2f1)
 - [Default Parameters in JavaScript](https://dev.to/moazamdev/default-parameters-in-javascript-3f36)
-- [ES6 Symbol in JavaScript](https://dev.to/moazamdev/es6-symbol-in-javascript-1l12)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
