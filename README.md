@@ -93,6 +93,7 @@ Contributing to Opensource makes me happy that's why I write articles to educate
   <br/>
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
         [![Moazam's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=moazamdev)](https://github.com/ashutosh00710/github-readme-activity-graph)
+        [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=moazamdev&bg_color=c1c1c1&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
         
         <img alt="moazamdev's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=moazamdev&theme=react-dark&bg_color=0D1117&color=fff&line=FFB800&point=fff&hide_border=true" />
 <!--         <img alt="moazamdev's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=moazamdev&theme=react-dark&bg_color=0D1117&color=fff&line=FFB800&point=fff&hide_border=true" /> -->
