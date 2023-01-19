@@ -5,11 +5,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&duration=3000&pause=300&color=FF6300&vCenter=true&width=435&lines=Front-end+Developer;UI+%26+UX+Designer;Wordpress+Developer)](https://git.io/typing-svg)
 
 <p align="justify">
-A passionate and innovative front-end developer who loves to build fantastic tech stuff for the web and is excited about connecting with like-minded geeks. 
+As a highly skilled frontend developer, React developer, and JavaScript developer, my main goal is to provide top-quality solutions for my clients by crafting visually stunning and user-centered websites and applications. My expertise in HTML, CSS, JavaScript, and modern frontend frameworks like React, allows me to stay up-to-date with the latest technologies and best practices in the fast-paced field of web development. My proficiency in UI/UX design principles, enables me to deliver responsive and seamless user experiences.
 
-Having around 1+ years of experience in the front end, I have developed beautiful, interactive, and responsive designs and web applications.
-
-Contributing to Opensource makes me happy that's why I write articles to educate and share what I have learned now in my professional career. I have also contributed to some open-source projects on GitHub. To see my profile in detail, I recommend to look at my LinkedIn profile.
+I am not only technically proficient, but also an excellent communicator and collaborator, which is essential to ensure the quality of the final product for the client. I am committed to exceed client's expectations through my skills and attention to details. Furthermore, I have experience in working with popular frontend libraries and frameworks such as Gatsby, Next.js, and Angular. Also, I enjoy sharing my experiences and insights through writing on industry-leading platforms and contributing to open-source projects on GitHub, to always be updated with the latest trends in the field.
 </p>
 
 &nbsp;
