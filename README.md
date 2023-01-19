@@ -91,8 +91,6 @@ I am not only technically proficient, but also an excellent communicator and col
   <br/>
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
         <img alt="moazamdev's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=moazamdev&theme=react-dark&bg_color=0D1117&color=fff&line=FFB800&point=fff&hide_border=true" />
-        
-<!--         <img alt="moazamdev's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=moazamdev&theme=react-dark&bg_color=0D1117&color=fff&line=FFB800&point=fff&hide_border=true" /> -->
     </a>
 </details>
 
