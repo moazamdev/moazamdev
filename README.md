@@ -41,11 +41,11 @@ I am not only technically proficient, but also an excellent communicator and col
 ### 📕 Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [Default exports &amp; Name exports](https://dev.to/moazamdev/default-exports-name-exports-264)
 - [String.endsWith&lpar;&rpar; in JavaScript](https://dev.to/moazamdev/stringendswith-in-javascript-3kfd)
 - [String.startsWith&lpar;&rpar; in JavaScript](https://dev.to/moazamdev/stringstartswith-in-javascript-3bbf)
 - [String.includes&lpar;&rpar; in JavaScript](https://dev.to/moazamdev/stringprototypeincludes-in-javascript-52ea)
 - [Function Rest Parameters in JavaScript](https://dev.to/moazamdev/function-rest-parameters-in-javascript-2f1)
-- [Default Parameters in JavaScript](https://dev.to/moazamdev/default-parameters-in-javascript-3f36)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
