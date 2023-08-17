@@ -2,7 +2,7 @@
 
 ## <img src="./Images/hey.gif" width="25" align="middle"/>&nbsp; Hey! Nice to see you.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&duration=3000&pause=300&color=FF6300&vCenter=true&width=435&lines=Front-end+Developer;UI+%26+UX+Designer;Wordpress+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=F6F7DE&width=435&lines=Frontend+%26+React+Developer;Web+Designer+%26+Developer)](https://git.io/typing-svg)
 
 <p align="justify">
 As a highly skilled frontend developer, React developer, and JavaScript developer, my main goal is to provide top-quality solutions for my clients by crafting visually stunning and user-centered websites and applications. My expertise in HTML, CSS, JavaScript, and modern frontend frameworks like React, allows me to stay up-to-date with the latest technologies and best practices in the fast-paced field of web development. My proficiency in UI/UX design principles, enables me to deliver responsive and seamless user experiences.
