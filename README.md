@@ -21,7 +21,7 @@ I am not only technically proficient, but also an excellent communicator and col
 <a href="https://dev.to/moazamdev">
     <img src="./Images/dev.png" alt="Dev" width="48px" borderRadius="10px"style="border-radius:10px !important;" />
 </a>
-<a href="https://www.instagram.com/moazam.dev/">
+<a href="https://www.instagram.com/heymoz.dev/">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"  />
 </a>
 <a href="https://stackoverflow.com/users/17986261/moazamdev">
@@ -84,14 +84,6 @@ I am not only technically proficient, but also an excellent communicator and col
     </a>
   </div>
   <br/>
-</details>
-
-<details>
-  <summary>📈 Activity Graph </summary>
-  <br/>
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img alt="moazamdev's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=moazamdev&theme=react-dark&bg_color=0D1117&color=fff&line=FFB800&point=fff&hide_border=true" />
-    </a>
 </details>
 
 <details>
